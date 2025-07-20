@@ -46,9 +46,9 @@ Evaluasi dilakukan menggunakan beberapa metrik performa model:
 - **Confusion Matrix**
 
 Hasil evaluasi menunjukkan bahwa:
-- **SVM** memberikan akurasi terbaik sebesar **XX%**  
-- **Logistic Regression** berada di urutan kedua dengan akurasi **XX%**  
-- **Naive Bayes** memberikan hasil akurasi **XX%**
+- **SVM** memberikan akurasi terbaik sebesar **0.7881/78%**  
+- **Logistic Regression** berada di urutan kedua dengan akurasi **0.7458/74%**  
+- **Naive Bayes** memberikan hasil akurasi **0.6949/69%**
 
 > *Nilai evaluasi dapat diisi setelah eksperimen selesai dijalankan.*
 
