@@ -50,9 +50,9 @@ Hasil evaluasi menunjukkan bahwa:
 - **Logistic Regression** berada di urutan kedua dengan akurasi **0.7458/74%**  
 - **Naive Bayes** memberikan hasil akurasi **0.6949/69%**
 
-> *Nilai evaluasi dapat diisi setelah eksperimen selesai dijalankan.*
-
 ## Cara Menjalankan
 1. Clone repository ke lokal:
    ```bash
-   git clone https://github.com/namauser/tugas-besar-datamining-kelompokX
+   git clone https://github.com/kelompok-4-dataminig/tugas-besar-datamining-kelompok4.git
+
+2. Jalankan file run.sh yang ada pada folder tersebut
